@@ -129,11 +129,3 @@ Potential applications include customer segmentation, marketing analysis, and th
 Predictive models reflect the data and methodology used to develop them. Model performance does not necessarily establish causation, and results may not generalize to other consumer populations or settings.
 
 The project's findings should be interpreted alongside the dataset description, preprocessing steps, model evaluation, and research limitations.
-
-## Academic Context
-
-This project was completed as part of academic coursework focused on applying data mining techniques to a business problem.
-
-## Disclaimer
-
-This project is for educational and portfolio demonstration purposes only. It is not financial advice and does not recommend a particular credit card.

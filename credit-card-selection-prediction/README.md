@@ -124,6 +124,8 @@ Predictive analytics can help businesses investigate consumer preferences and un
 
 Potential applications include customer segmentation, marketing analysis, and the development of data-informed marketing strategies. Actual business applications depend on the reliability of the results, data quality, and the limitations of the analysis.
 
+Dataset can not be shared
+
 ## Limitations
 
 Predictive models reflect the data and methodology used to develop them. Model performance does not necessarily establish causation, and results may not generalize to other consumer populations or settings.

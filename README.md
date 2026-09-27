@@ -80,30 +80,5 @@ credit-card-consumer-decision-analysis/
 └── credit-card-selection-prediction/
     ├── README.md
     ├── report.docx
-    ├── presentation.pptx
-    └── cred_card.xlsx
+    └── presentation.pptx
 ```
-
-The structure above is illustrative. Actual filenames and included files may differ.
-
-## Academic Context
-
-These projects were completed as academic work to apply data analytics, data mining, and business research concepts to consumer decision-making.
-
-## Notes
-
-* Findings and recommendations are based on the datasets and methods used in the respective projects.
-* Predictive results should be interpreted within the limitations of the available data.
-* Dataset availability depends on applicable sharing permissions.
-* Google Colab notebooks may require access permissions or a copy to the user's Google Drive.
-* Project reports and presentations should be reviewed alongside the analysis notebooks for additional methodology and context.
-
-## Author
-
-Business Analytics Student
-
-George Brown Polytechnic
-
-## Disclaimer
-
-These projects are for academic and portfolio demonstration purposes only. They do not constitute financial advice or recommendations for selecting a credit card.

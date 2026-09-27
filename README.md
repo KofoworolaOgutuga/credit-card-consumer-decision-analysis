@@ -44,7 +44,7 @@ This project focuses on predicting whether a respondent will select the dominant
 * Written report
 * PowerPoint presentation
 * Python analysis in Google Colab
-* Dataset: `cred_card.xlsx` (subject to availability and permission to share)
+* Dataset: `cred_card.xlsx` (can not be shared)
 
 [View the Google Colab Notebook](https://colab.research.google.com/drive/1EMYVnrWNVmNMOvoi3GhpNJFCVQm2LkHg)
 

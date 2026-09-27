@@ -58,11 +58,3 @@ The project materials include a written report, presentation slides, and a Pytho
 Understanding how marketing messages and video content relate to consumer decisions can help businesses evaluate their marketing communications and better understand customer preferences.
 
 The findings should be interpreted in the context of the dataset, research design, and limitations described in the project report.
-
-## Academic Context
-
-This project was completed as part of academic coursework related to business analytics, marketing, and consumer decision-making.
-
-## Disclaimer
-
-This project is for educational and portfolio purposes only. The results should not be interpreted as proof of causation unless supported by the research design and analysis.

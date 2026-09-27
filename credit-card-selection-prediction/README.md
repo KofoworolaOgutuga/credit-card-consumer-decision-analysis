@@ -36,7 +36,6 @@ Variables identified in the project instructions include:
 
 The exact variable definitions, data types, and dataset source should be documented in the project report and analysis notebook.
 
-The dataset should only be included in this repository if its sharing permissions allow public distribution.
 
 ## Methodology
 
